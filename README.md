@@ -12,5 +12,5 @@ Full details are available at https://arxiv.org/abs/2303.03666
 
 
 ## Quick Explanation
-1- "Feature_Extraction_Before_Feature_Selection.py" implements various audio feature extraction methods. After feature extraction, we use our heuristic algorithm for the feature selection.
-2- "Feature_Extraction_After_Feature_Selection.py" implements feature extraction methods selected by our feature selection algorithm. In this step, we generate the "dataset_US.npy" file, the input of our audio annotation and audio classification methods. We didn't upload the mentioned file because it was too large!
+- "Feature_Extraction_Before_Feature_Selection.py" implements various audio feature extraction methods. After feature extraction, we use our heuristic algorithm for the feature selection.
+- "Feature_Extraction_After_Feature_Selection.py" implements feature extraction methods selected by our feature selection algorithm. In this step, we generate the "dataset_US.npy" file, the input of our audio annotation and audio classification methods. We didn't upload the mentioned file because it was too large!
