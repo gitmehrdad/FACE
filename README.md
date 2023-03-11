@@ -1,10 +1,9 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/face-fast-accurate-and-context-aware-audio/environmental-sound-classification-on)](https://paperswithcode.com/sota/environmental-sound-classification-on?p=face-fast-accurate-and-context-aware-audio)
 # FACE
-Urban Sound Annotation and Classification
-Full details are available at https://arxiv.org/abs/2303.03666
-
-
 Feature extraction, Feature selection, Audio Event Labeling, and Sound Classification on the UrbanSound8K dataset.
+If you enjoy reading papers, full details are available at https://arxiv.org/abs/2303.03666
+
+
 
 This is how we do things:
 1- The file entitled "Feature_Extraction_Before_Feature_Selection.py" contains the feature extraction codes used by our heuristic algorithm for the feature selection.
