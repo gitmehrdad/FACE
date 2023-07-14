@@ -20,7 +20,7 @@ Full details are available at https://arxiv.org/abs/2303.03666
 @misc{face,
   doi = {10.48550/ARXIV.2303.03666}, 
   url = {https://arxiv.org/abs/2303.03666}, 
-  author = {Morsali, M. Mehrdad and Mohammadzade, Hoda and Shouraki, Saeed Bagheri},  
+  author = {Morsali, M. Mehrdad and Mohammadzade, Hoda and Bagheri Shouraki, Saeed},  
   title = {Face: Fast, Accurate and Context-Aware Audio Annotation and Classification}, 
   publisher = {arXiv},  
   year = {2023},
