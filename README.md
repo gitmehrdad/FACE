@@ -1,4 +1,4 @@
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/face-fast-accurate-and-context-aware-audio/environmental-sound-classification-on)](https://paperswithcode.com/sota/environmental-sound-classification-on?p=face-fast-accurate-and-context-aware-audio)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/face-fast-accurate-and-context-aware-audio/environment-sound-classification-on)](https://paperswithcode.com/sota/environment-sound-classification-on?p=face-fast-accurate-and-context-aware-audio)
 
 # FACE: Fast, Accurate and Context-Aware Audio Annotation and Classification
 
